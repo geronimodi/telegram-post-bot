@@ -1,18 +1,28 @@
 # Telegram Post Bot
-Главное окно
-
-![image](https://github.com/user-attachments/assets/2a65ad4d-f785-4395-8cdc-a7e7295fa7f7)
-
-Настройки
-
-![image](https://github.com/user-attachments/assets/3321f148-c252-4c3f-ba10-cd07e1a0bf0b)
-
-Редактор фраз рандомайзера
-
-![image](https://github.com/user-attachments/assets/4b3edd24-be70-46bc-b211-913ede033f7d)
-
-
 Автоматический бот для публикации изображений и видео в Telegram-канал.
+
+## Скриншоты
+
+<div style="display: flex; flex-direction: row; justify-content: flex-start; width: 100%; gap: 2%;">
+  <div style="text-align: center; width: 20%;">
+    <p>Главное окно</p>
+    <a href="https://github.com/user-attachments/assets/4b3edd24-be70-46bc-b211-913ede033f7d">
+        <img src="https://github.com/user-attachments/assets/c8c068dd-d0b0-4323-aa7e-ebd9d134a9fa" width="10%" alt="Главное окно">
+    </a>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <p>Настройки</p>
+    <a href="https://github.com/user-attachments/assets/4b3edd24-be70-46bc-b211-913ede033f7d">
+        <img src="https://github.com/user-attachments/assets/f38db6bd-d142-4f73-bf6b-b2c3bf0e67a6" width="10%" alt="Настройки">
+    </a>
+  </div>
+  <div style="text-align: center; width: 20%;">
+    <p>Окно рандомайзера фраз</p>
+    <a href="https://github.com/user-attachments/assets/4b3edd24-be70-46bc-b211-913ede033f7d">
+        <img src="https://github.com/user-attachments/assets/4b3edd24-be70-46bc-b211-913ede033f7d" width="10%" alt="Окно рандомайзера фраз">
+    </a>
+  </div>
+</div>
 
 ## Описание
 
