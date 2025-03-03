@@ -1,6 +1,9 @@
 # Telegram Post Bot
 
 Автоматический бот для публикации изображений и видео в Telegram-канал.
+![image](https://github.com/user-attachments/assets/2a65ad4d-f785-4395-8cdc-a7e7295fa7f7)
+
+![image](https://github.com/user-attachments/assets/3321f148-c252-4c3f-ba10-cd07e1a0bf0b)
 
 ## Описание
 
