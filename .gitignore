@@ -1,0 +1,8 @@
+__pycache__
+build
+dist
+.spec
+.idea
+.exe
+config.ini
+last_post_time.json
